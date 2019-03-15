@@ -12,9 +12,9 @@ var myApp = new Framework7({
 	material: true,
 	routes: [
 		{
-		path: '/home/',
+		path: '/index/',
     	url: 'index.html',
-    	name: 'home',
+    	name: 'index',
   		},
 			{
 		path: '/login/',
